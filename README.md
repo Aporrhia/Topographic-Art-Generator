@@ -28,11 +28,11 @@ Blender requires downloading the repository files to your local machine prior to
 
 ### Method 2: Installing via Direct `.py` File
 
-1. Navigate to `topo_script.py` in this repository.
+1. Navigate to `__init__.py` in this repository.
 2. Click the **Raw** button on the top right of the code view.
-3. Press `Ctrl + S` (or `Cmd + S` on Mac) to save the file to your computer as `topo_script.py`.
+3. Press `Ctrl + S` (or `Cmd + S` on Mac) to save the file to your computer as `__init__.py`.
 4. In Blender, go to **Edit > Preferences > Add-ons > Install...** (or **Install from Disk...**).
-5. Select `topo_script.py` and check the box to enable **Topographic Art Generator**.
+5. Select `__init__.py` and check the box to enable **Topographic Art Generator**.
 
 ---
 
