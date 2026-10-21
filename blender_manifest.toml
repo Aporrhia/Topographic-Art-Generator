@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "topographic_art_generator"
+version = "1.0.0"
+name = "Topographic Art Generator"
+tagline = "Generate topographic terrain artwork in several styles"
+maintainer = "Aporrhia"
+type = "add-on"
+
+blender_version_min = "5.2.0"
+
+license = ["SPDX:GPL-3.0-only"]
